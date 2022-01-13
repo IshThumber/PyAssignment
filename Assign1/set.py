@@ -37,7 +37,7 @@ def intersection(A, B, C):
 
     print("Common of members of list, tuple and dictionary:", final_list)
 
-    if_name_== "__main__"
+if __name__== "__main__":
     list1 = [1, 2, "ABC", 3.4]
     tuple1 = (12, 20, "ABC", 3.4)
     dictionary1 = {"ABC", 1, 3.4, "PQR"}
