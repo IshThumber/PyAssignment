@@ -42,3 +42,16 @@ if __name__== "__main__":
     tuple1 = (12, 20, "ABC", 3.4)
     dictionary1 = {"ABC", 1, 3.4, "PQR"}
     intersection(list1, tuple1, dictionary1)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
