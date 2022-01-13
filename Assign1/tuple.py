@@ -22,3 +22,11 @@ print(str)
 ## e. 
 tuple = ('H', 'e', 'l', 'l', 'o')
 print("Length of the tuple:", len(tuple))
+
+
+
+
+
+
+
+

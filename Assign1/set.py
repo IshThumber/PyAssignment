@@ -1,27 +1,27 @@
 # 20CE148 (Ish Thumber)
 ## a.
-# SET = {'H', 'e', 'l', 'l', 'o'}
-# SET.add('!')
-# print("Letters are:", SET)
-# print("Set before clear:", SET)
-# print("Set after clear:", SET.clear())
+SET = {'H', 'e', 'l', 'l', 'o'}
+SET.add('!')
+print("Letters are:", SET)
+print("Set before clear:", SET)
+print("Set after clear:", SET.clear())
 
 ## b.
-# set = {'H', 'e', 'l', 'l', 'o'}
-# set.remove('o')
-# print("Letters are:", set)
+set = {'H', 'e', 'l', 'l', 'o'}
+set.remove('o')
+print("Letters are:", set)
 
 ## c.
-# A = {1, 2, 3, 4, 5}
-# B = {4, 5, 6, 7, 8}
-# print("Union of A and B:", A.union(B))
-# print("Intersection of A and B:", A.intersection(B))
-# print("Difference of A and B:", A.difference(B))
+A = {1, 2, 3, 4, 5}
+B = {4, 5, 6, 7, 8}
+print("Union of A and B:", A.union(B))
+print("Intersection of A and B:", A.intersection(B))
+print("Difference of A and B:", A.difference(B))
 
 ## d.
-# set = {1, 2, 3, 4, 5}
-# print(min(set))
-# print(max(set))
+set = {1, 2, 3, 4, 5}
+print(min(set))
+print(max(set))
 
 ## e.
 def intersection(A, B, C):
