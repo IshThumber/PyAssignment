@@ -1,3 +1,4 @@
+# 20CE148 (Ish Thumber)
 ## a.
 dic = {'A': 1, 'B': 2, 'C': 3, 'D': 4, 'E': 5}
 key1 = 'A'
@@ -36,3 +37,25 @@ dic4.update(dic1)
 dic4.update(dic2)
 dic4.update(dic3)
 print(dic4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
